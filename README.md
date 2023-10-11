@@ -1,4 +1,4 @@
-# Bike Sharing Linear Regression Model for Prediction
+# Bike Sharing Linear Regression Prediction Model
 > 
 
 
